@@ -43,6 +43,7 @@ RUN install2.r --error \
     magrittr \
     processx \
     usethat \
+    rmarkdown \
     remotes \
     testthat \
     tidyr
