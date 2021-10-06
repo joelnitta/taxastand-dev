@@ -1,6 +1,6 @@
 # README
 
-This Dockerfile is used to create the `taxastand-dev` image, which is used for building the `taxastand` R package.
+This Dockerfile is used to create the `taxastand-dev` image, which is used for building the [`taxastand`](https://github.com/joelnitta/taxastand) R package.
 
 This image includes [taxon-tools](https://github.com/camwebb/taxon-tools), a dependency of `taxastand`.
 
