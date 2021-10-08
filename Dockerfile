@@ -41,6 +41,7 @@ RUN install2.r --error \
     fs \
     glue \
     magrittr \
+    pkgdown \
     processx \
     usethat \
     rmarkdown \
